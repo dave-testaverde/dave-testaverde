@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
-<h3 align="center">Your friendly developer from Italy 🕸️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-testaverde&label=Profile%20views&color=0e75b6&style=flat" alt="dave-testaverde" /> </p>
 
-- 🌱 I’m currently learning **ios, swift, rx-projects, opencv**
+- 🌱 I’m currently learning **llm, rx-projects, opencv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
