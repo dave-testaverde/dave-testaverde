@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-testaverde&label=Profile%20views&color=0e75b6&style=flat" alt="dave-testaverde" /> </p>
 
-- 🌱 I’m currently learning **llm, rx-projects, opencv**
+- 🌱 I’m currently learning **llm, gen-ai, opencv**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
